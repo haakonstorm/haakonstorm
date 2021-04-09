@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋
+
+![haakonstorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=haakonstorm&theme=nightowl&count_private=true&show_icons=true)
 
 <!--
 **haakonstorm/haakonstorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
